@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>NHibernate.Caches.Redis</id>
-    <version>3.0.0-beta5</version>
+    <id>bwf-NHibernate.Caches.Redis</id>
+    <version>5.1.0</version>
     <authors>Adrian Phinney</authors>
     <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
     <projectUrl>http://github.com/TheCloudlessSky/NHibernate.Caches.Redis</projectUrl>
